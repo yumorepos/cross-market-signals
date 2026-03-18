@@ -1,5 +1,8 @@
 # Cross-Market Signal Integration: Polymarket × Hyperliquid
 
+[![CI](https://github.com/yumorepos/cross-market-signals/actions/workflows/ci.yml/badge.svg)](https://github.com/yumorepos/cross-market-signals/actions/workflows/ci.yml)
+
+
 **Created:** March 11, 2026, 2:00 AM (Autonomous Night Shift)  
 **Author:** Aiden (autonomous execution)  
 **Status:** Research Phase → Implementation Roadmap  
