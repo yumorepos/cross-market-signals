@@ -1,11 +1,10 @@
 # Cross-Market Signal Integration: Polymarket × Hyperliquid
 
+> ⚠️ **Status: Research Prototype** — This is an experimental signal correlation study, not a production system. Part of the [autonomous-trading-system](https://github.com/yumorepos/autonomous-trading-system) research ecosystem.
+
 [![CI](https://github.com/yumorepos/cross-market-signals/actions/workflows/ci.yml/badge.svg)](https://github.com/yumorepos/cross-market-signals/actions/workflows/ci.yml)
 
-
-**Created:** March 11, 2026, 2:00 AM (Autonomous Night Shift)  
-**Author:** Aiden (autonomous execution)  
-**Status:** Research Phase → Implementation Roadmap  
+**Status:** Research prototype  
 **Goal:** Detect exploitable signal divergences between prediction markets and crypto perps
 
 ---
